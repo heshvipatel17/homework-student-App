@@ -11,8 +11,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class JsonAssertExample {
+/* By Jitendra Patel */
 
+public class JsonAssertExample {
 
     @Test
     public void getStudents() throws IOException, JSONException {
